@@ -19,7 +19,7 @@ url: "https://seoyeonii.github.io" # the base hostname & protocol for your site 
 baseurl: "" # does not include hostname
 title: "서연's log"
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  개발관련 기술 블로그입니다.
 
 ## => Language and Timezone
 ##############################
@@ -75,7 +75,7 @@ toc:
 ## => Markdown Enhancements
 ##############################
 ## Mathjax
-mathjax: # false (default), true
+mathjax: true
 mathjax_autoNumber: # false (default), true
 
 ## Mermaid
