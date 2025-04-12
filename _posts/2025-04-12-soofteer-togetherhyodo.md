@@ -7,7 +7,7 @@ article_header:
   background_color: "#203028"
 author: SeoYeonii
 categories: coding-test
-tags: [coding-test]
+tags: [coding-test, softeer]
 # top: 1
 # sidebar: []
 ---
